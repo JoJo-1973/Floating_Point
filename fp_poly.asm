@@ -1,3 +1,3 @@
 ; -----------
-; Comparisons
+; Polynomials
 ; -----------
